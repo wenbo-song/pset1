@@ -3,12 +3,12 @@
 
 Fill in your personal information, stage the changes, and commit with a meaningful commit message.  Then push the commit to the remote repository.
 
-* Name:
+* Name: Wenbo Song
 
-* LSE ID:
+* LSE ID: 201902435
 
-* LSE email address:
+* LSE email address: w.song5@lse.ac.uk
 
-* Programme:
+* Programme: MSc in Applied Social Data Science
 
 * (Optional) Personal website:
